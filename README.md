@@ -35,7 +35,7 @@ As a wizard, he is going to use nine-grid spell book, different card, combo to b
 
 # Millstones
 
-## Step 1 - leaning C# and Unity
+## Step 1 - learning C# and Unity
 
 Complete few small games, 
 Expected end date: Jan 19, 2025
