@@ -6,9 +6,9 @@ By Simon Wang, Benson Xiao, and Yiming Zhai
 
 ## how do we do, language, engine
 
-Language - C#
-Engine - Unity 2D
-Art - Pr, Chat-gpt
+- Language - C#
+- Engine - Unity 2D
+- Art - Pr, Chat-gpt
 
 ## Game play
 
