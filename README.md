@@ -72,7 +72,9 @@ different nodes, merchants,
 
 Able to finish one plain game, has a simple ends and difference enemies
 
-# Step 7 - Different Professions, out-of-battle UI, start/stop page
+# Step 7 - More Professions, UI, and pages
+
+Different Professions, out-of-battle UI, start/stop page
 
 # Step 8 - more music, arts,  save game
 
