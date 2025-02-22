@@ -28,6 +28,11 @@ public class DragUIFixed : MonoBehaviour, IPointerClickHandler, IPointerEnterHan
     public void OnPointerClick(PointerEventData eventData)
     {
         isPicked = !isPicked;
+        if (isPicked){
+            frame.effectColor = Color.red;
+        } else {
+            frame.effectColor = Color.green;
+        }
     }
 
     public void OnPointerEnter(PointerEventData eventData)
